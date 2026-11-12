@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/E--mail-151D2B?style=for-the-badge" alt="E-mail">
   </a>
     <a href="https://erencoder123.github.io/">
-    <img src="https://img.shields.io/badge/E--mail-151D2B?style=for-the-badge" alt="E-mail">
+    <img src="https://img.shields.io/badge/E--mail-151D2B?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
 

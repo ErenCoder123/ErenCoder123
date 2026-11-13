@@ -73,8 +73,6 @@ executados localmente no navegador, com:
 - Exportação dos resultados.
 - Testes automatizados e avaliação reproduzível.
 
-Desenvolvido com assistência do **OpenAI Codex**.
-
 [**Conheça o Escuta AI →**](https://github.com/ErenCoder123/escuta-ai)
 
 ### 🚀 Outros projetos
